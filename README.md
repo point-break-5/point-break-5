@@ -77,17 +77,17 @@ class Anirban:
 
 ---
 
-### 📱 [Thiea App](https://github.com/point-break-5/Thiea_app)
-> Cross-platform mobile application built with Flutter and Dart — native feel on both Android and iOS from a single codebase.
+### 📸 [Theia — Intelligent Photo Sharing & Management App](https://github.com/point-break-5/Thiea_app)
+> AI-powered photo sharing and management app with advanced camera controls (ISO, focus, grid overlays), automated image organization by date/location, facial recognition & clustering via DeepFace (FaceNet, VGG-Face), real-time collaboration, built-in editing tools, and seamless video recording. Built for the CSE 2216 App Dev Lab at University of Dhaka.
 
-`Flutter` `Dart` `Mobile`
+`Flutter` `Dart` `FastAPI` `Python` `DeepFace` `Supabase` `Firebase` `RabbitMQ` `Celery`
 
 ---
 
-### 🏆 [DU InnovatorX — Frontend](https://github.com/point-break-5/DU_InnovatorX/tree/Frontend)
-> Frontend for Dhaka University's InnovatorX hackathon platform — handling team registration, project submissions, and live event updates.
+### 🍽️ [DU InnovatorX — Food Management & Sustainability Platform](https://github.com/point-break-5/DU_InnovatorX/tree/Frontend)
+> Hackathon project supporting **SDG 2: Zero Hunger** & **SDG 12: Responsible Consumption**. A full-stack food tracking platform with JWT auth, inventory management with expiration alerts, consumption logging, rule-based recommendations, and an image upload pipeline architected for future AI/OCR integration.
 
-`React` `JavaScript` `CSS`
+`Next.js` `React 19` `TypeScript` `MongoDB` `Mongoose` `Tailwind CSS v4` `JWT` `Node.js` `Zod`
 
 ---
 
